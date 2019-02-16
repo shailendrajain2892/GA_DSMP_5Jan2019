@@ -6,4 +6,8 @@ The goal of the project is to create a placeholder for all the important code sn
 - 2 : Simple implementation of Poisson Distribution
 - 3 : Simple implementation of Binomial Distribution
 - 4 : Simple implementation of Z Score
+- 5 : Simple implementation of OLS
+- 6 : Simple implementation of Gradient Descent
+- 7 : Simple linear regression walk through
+- 8 : Simple display of Q-Q Plots
 ___
