@@ -10,4 +10,6 @@ The goal of the project is to create a placeholder for all the important code sn
 - 6 : Simple implementation of Gradient Descent
 - 7 : Simple linear regression walk through
 - 8 : Simple display of Q-Q Plots
+- 9 : Simple example of Lassor and Ridge Regression.
+- 10 : Simple example of missing value imputation.
 ___
