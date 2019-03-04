@@ -12,4 +12,6 @@ The goal of the project is to create a placeholder for all the important code sn
 - 8 : Simple display of Q-Q Plots
 - 9 : Simple example of Lassor and Ridge Regression.
 - 10 : Simple example of missing value imputation.
+- 11 : Simple example to demonstrate the power of reshape.
+- 12 : Simple example of EDA on insurance data.
 ___
