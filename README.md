@@ -14,4 +14,5 @@ The goal of the project is to create a placeholder for all the important code sn
 - 10 : Simple example of missing value imputation.
 - 11 : Simple example to demonstrate the power of reshape.
 - 12 : Simple example of EDA on insurance data.
+- 13 : Simple example to demonstrate the multicolinearity issue when one hot encoding categorical variables.
 ___
