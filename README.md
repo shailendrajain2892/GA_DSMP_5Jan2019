@@ -15,4 +15,8 @@ The goal of the project is to create a placeholder for all the important code sn
 - 11 : Simple example to demonstrate the power of reshape.
 - 12 : Simple example of EDA on insurance data.
 - 13 : Simple example to demonstrate the multicolinearity issue when one hot encoding categorical variables.
+- 14 : Standard Scaling at Prediction.
+- 15 : Simple example to demonstrate the power of QGrid library in Python.
+- 16 : Simple example of Feature Selection on insurance data.
+- 17 : Simple example to why Linear Regression isn't used in Classification.
 ___
